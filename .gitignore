@@ -1,26 +1,8 @@
+# backend
 /backend/node_modules
 /backend/package-lock.json
 
-# dependencies
-/clientpost/node_modules
-/clientpost/package-lock.json
-/clientpost/.eslintcache
-/.pnp
-.pnp.js
+# clientpos
+/clientpos/node_modules
+/clientpos/package-lock.json
 
-# testing
-/coverage
-
-# production
-/build
-
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*

@@ -1,1 +1,1 @@
-# SimplePos
+# SimplePos mini
